@@ -20,8 +20,6 @@ I won't bore you with the details, so here is how to install the bot.
 4. Go to ffmpeg.org/download.html and install the .exe version of ffmpeg, put it in the same directory as the main.py file.
 5. Create a new file named '.env' in the same directory as the main.py file and paste the following inside of it:
 ```
-TOKEN = "BOT TOKEN HERE"
+TOKEN = "Put your BOT TOKEN in here, you're expected to know how to get this."
 ```
-I won't tell you how to obtain your bot token or how to invite your bot, you're expected to know that.
-
 6. Open the main.py file and keep the window open! If you did everything correctly you should now be running your very own music bot.
