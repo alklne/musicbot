@@ -1,9 +1,16 @@
 # DISCLAIMER
+- No cooldowns/permissions intergrated YET.
 - This bot will only work on Windows, I do not plan on adding Linux support any time soon.
 - This bot is designed for one server only, it will not work on multiple servers.
 - This bot has no intergration for Spotify, Soundcloud, whatever. It only works with Youtube and it will stay that way.
 - I will only provide instruction on how to install the bot. You're on your own to figure out how it all works.
 
+# FEATURES
+- Playlist 'saving', 'loading' and 'shuffle' (like Spotify you can make entire playlists that the bot stores)
+- Youtube intergration: Search, URLs and the ability to load entire Youtube playlists using pytubefix
+- Pausing, looping, everything you expect
+
+# INSTALLATION
 This bot was originally made for my friend group, but I slowly started to develop it thurther, and now here we are.
 I won't bore you with the details, so here is how to install the bot.
 
