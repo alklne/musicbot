@@ -2,7 +2,7 @@ import discord, os
 from discord.ext import commands
 from dotenv import load_dotenv
 
-bot = commands.Bot(command_prefix="debug!", intents=discord.Intents.all())
+bot = commands.Bot(command_prefix="!s", intents=discord.Intents.all())
 
 async def initalize():
     for fileName in os.listdir(f"{os.getcwd()}/cogs"):
